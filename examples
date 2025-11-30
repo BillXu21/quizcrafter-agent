@@ -1,0 +1,26 @@
+Calc III - Vector Calculus (Sample Notes)
+
+Course context:
+- This is a second-year university course on multivariable calculus.
+- Students know single-variable calculus and basic linear algebra.
+
+Topics:
+- Vector fields in R^2 and R^3
+- Gradient, divergence, and curl
+- Line integrals of vector fields
+- Conservative vector fields and potential functions
+- Green's theorem in the plane
+- Flux integrals and the divergence theorem
+
+Key ideas:
+- The gradient ∇f points in the direction of steepest increase of a scalar field f.
+- Divergence measures the “net flow out” of a point in a vector field.
+- Curl measures the “rotation” or tendency to spin in a vector field.
+- Green's theorem relates a line integral around a closed curve to a double integral over the region.
+- The divergence theorem relates flux through a closed surface to a triple integral of divergence over the volume.
+
+Typical exam question styles:
+- Compute div F or curl F at a specific point.
+- Determine whether a vector field is conservative and, if so, find a potential function.
+- Evaluate a line integral directly and using Green's theorem.
+- Interpret physical meaning of divergence or curl for a given field.
