@@ -180,8 +180,6 @@ quizcrafter-agent/
 ├─ quizcrafter/
 │  ├─ agent.py            # Agents, tools, and root SequentialAgent
 │  └─ __init__.py
-├─ examples/
-│  └─ sample_notes_calc3.txt
 ├─ README.md
 ├─ requirements.txt
 ├─ .env.example
